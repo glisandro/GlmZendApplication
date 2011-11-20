@@ -1,0 +1,9 @@
+[submodule "vendors/SpiffyDoctrine"]
+	path = vendors/SpiffyDoctrine
+	url = git://github.com/SpiffyJr/SpiffyDoctrine.git
+[submodule "vendors/EdpUser"]
+	path = vendors/EdpUser
+	url = git://github.com/EvanDotPro/EdpUser.git
+[submodule "vendors/EdpCommon"]
+	path = vendors/EdpCommon
+	url = git://github.com/EvanDotPro/EdpCommon.git
