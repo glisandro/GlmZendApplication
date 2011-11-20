@@ -1,0 +1,5 @@
+GlmZendApplication es una aplicacion para instalar y testear moduloz ZF2.
+Módulos incluidos:
+EdpCommon
+EdpUser
+SpiffyDoctrine
