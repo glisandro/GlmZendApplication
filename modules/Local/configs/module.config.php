@@ -10,7 +10,7 @@ return array(
                         'port'     => '3306', 
                         'user'     => 'root',
                         'password' => '',
-                        'dbname'   => 'pruebas',
+                        'dbname'   => 'glmzendapplication',
                     ),
                     'config' => 'doctrine_config',
                     'evm'    => 'doctrine_evm'
