@@ -7,3 +7,6 @@
 [submodule "vendors/EdpCommon"]
 	path = vendors/EdpCommon
 	url = git://github.com/EvanDotPro/EdpCommon.git
+[submodule "library/ZendFramework"]
+    path = library/ZendFramework
+    url = git://github.com/zendframework/zf2.git
